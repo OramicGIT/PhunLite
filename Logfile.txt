@@ -1,0 +1,1297 @@
+-----------------------------
+  Phun v5.28
+  September 28 2024, 11:40:55
+-----------------------------
+11:40:55: Loading language English...
+11:40:55: -- Warning: Exception thrown: Failed to open file "C:/Users/ArsenLupen/Desktop/Vault/STORAGE/Apps/Phun Lite Edition/data/language/English.cfg" from c:/emilk/phun/trunk/Source/gui/../util/FILEWrapper.hpp:28: util::FILEWrapper::FILEWrapper(const util::String&, const util::String&)
+11:40:55: -- Warning: Error loading language English: Failed to open file "C:/Users/ArsenLupen/Desktop/Vault/STORAGE/Apps/Phun Lite Edition/data/language/English.cfg"
+11:40:55: -- Warning: Failed to find image "C:/Users/ArsenLupen/Desktop/Vault/STORAGE/Apps/Phun Lite Edition/data/textures/mouse"
+11:40:55: -- Warning: Failed to find cursor texture
+11:40:55: -- Warning: English and  translation missing for FileButton
+11:40:55: -- Warning: English and  translation missing for ToolbarButton
+11:40:55: -- Warning: English and  translation missing for SimControlButton
+11:40:55: -- Warning: English and  translation missing for EntityOptionsButton
+11:40:55: -- Warning: English and  translation missing for OptionsButton
+11:40:55: -- Warning: English and  translation missing for HelpButton
+11:40:55: -- Warning: English and  translation missing for AboutButton
+11:40:55: -- Warning: English and  translation missing for HideWindows
+11:40:55: -- Warning: Failed to find image "logos/algodoo_phun_edition_16px"
+11:40:55: No tablet found (or Wintab32.dll missing)
+11:40:55: Parsing C:/Users/ArsenLupen/Desktop/Vault/STORAGE/Apps/Phun Lite Edition/autoexec.cfg...
+11:40:55: -- Warning: Exception thrown: line 11 'n': Missing { from c:/emilk/phun/trunk/Source/script/Parser.cpp:33: void script::ParserAssert(const script::Token&, bool, const util::String&)
+11:40:55: -- Warning: Caught exception: line 11 'n': Missing {, c:/emilk/phun/trunk/Source/script/Parser.cpp:200: script::CodeBlockPtr script::Parser::Parse(const script::TokenList&, script::ReflectedPtr)
+11:40:55: Parsing C:/Users/ArsenLupen/Desktop/Vault/STORAGE/Apps/Phun Lite Edition/config.cfg...
+11:40:55: -- Warning: Failed to find image "gui/minimize"
+11:40:55: -- Warning: Failed to find image "backward"
+11:40:55: -- Warning: English and  translation missing for Undo
+11:40:55: -- Warning: Failed to find image "forward"
+11:40:55: -- Warning: English and  translation missing for Redo
+11:40:55: -- Warning: English and  translation missing for Zoom
+11:40:55: -- Warning: English and  translation missing for LabeledSlider_Tooltip
+11:40:55: -- Warning: Failed to find image "zoom"
+11:40:55: -- Warning: Failed to find image "navigator"
+11:40:55: -- Warning: English and  translation missing for ZoomToScene
+11:40:55: -- Warning: Failed to find image "zoom2scene"
+11:40:55: -- Warning: English and  translation missing for ResetView
+11:40:55: -- Warning: Failed to find image "center"
+11:40:55: -- Warning: English and  translation missing for ImportPhunletMenu
+11:40:55: -- Warning: English and  translation missing for ImportPhunletButton
+11:40:55: -- Warning: Failed to find image "import_phunlet"
+11:40:55: -- Warning: Failed to find image "rightarrow"
+11:40:55: -- Warning: English and  translation missing for BackgroundOptionsButton
+11:40:55: -- Warning: Failed to find image "color"
+11:40:55: -- Warning: English and  translation missing for ToolMove
+11:40:55: -- Warning: English and  translation missing for ToolDrag
+11:40:55: -- Warning: English and  translation missing for ToolRotate
+11:40:55: -- Warning: Failed to find image "scale"
+11:40:55: -- Warning: English and  translation missing for ToolScale
+11:40:55: -- Warning: English and  translation missing for ToolCut
+11:40:55: -- Warning: English and  translation missing for ToolPolygon
+11:40:55: -- Warning: English and  translation missing for ToolBrush
+11:40:55: -- Warning: English and  translation missing for ToolBox
+11:40:55: -- Warning: English and  translation missing for ToolCircle
+11:40:55: -- Warning: English and  translation missing for ToolGears
+11:40:55: -- Warning: English and  translation missing for ToolPlane
+11:40:56: -- Warning: English and  translation missing for ToolChain
+11:40:56: -- Warning: Failed to find image "spring"
+11:40:56: -- Warning: English and  translation missing for ToolSpring
+11:40:56: -- Warning: English and  translation missing for ToolFixJoint
+11:40:56: -- Warning: Failed to find image "hinge"
+11:40:56: -- Warning: English and  translation missing for ToolHinge
+11:40:56: -- Warning: English and  translation missing for ToolTracer
+11:40:56: Creating window...
+11:40:56: -- Warning: English and  translation missing for Loading
+11:40:56: -- Warning: English and  translation missing for PleaseWait
+11:40:56: -- Warning: Failed to find image "textures/spring"
+11:40:57: -- Warning: Failed to find image "textures/scale"
+11:40:57: -- Warning: Failed to find image "textures/hinge"
+11:40:57: 68 resources loaded
+11:40:57: Window created.
+11:40:57: Initializing thread-pool...
+11:40:57: Prefetching resources...
+11:40:59: Creaing GUI...
+11:40:59: Loading C:/Users/ArsenLupen/Desktop/Vault/STORAGE/Apps/Phun Lite Edition/scenes/_ONEXITSAVE.phz...
+11:41:03: -- Warning: Failed to find image "ice"
+11:41:03: -- Warning: Failed to find image "C:/Users/ArsenLupen/Desktop/Vault/STORAGE/Apps/Phun Lite Edition/textures/ice"
+11:41:03: Loaded scene C:/Users/ArsenLupen/Desktop/Vault/STORAGE/Apps/Phun Lite Edition/scenes/_ONEXITSAVE.phz
+11:41:03: -- Warning: English and  translation missing for UndoLoadScene
+11:41:03: Running program...
+11:41:03: -- Warning: Failed to find image "logos/algodoo_phun_edition_stacked"
+11:41:03: -- Warning: Failed to find image "logos/algoryx"
+11:41:04: -- Warning: Failed to find image "hinge_inner"
+11:41:04: -- Warning: Failed to find image "hinge_background"
+11:41:04: -- Warning: Failed to find image "hinge_balls"
+11:41:06: -- Warning: Failed to find image "ring"
+11:41:06: -- Warning: Failed to find image "hinge_motor"
+11:41:06: -- Warning: Failed to find image "hinge_motor_ccw"
+11:41:06: -- Warning: Failed to find image "hinge_motor_cw"
+11:41:06: -- Warning: Failed to find image "fixjoint"
+11:41:07: -- Warning: Failed to find image "pan"
+11:41:11: -- Warning: English and  translation missing for Undo
+11:41:11: -- Warning: English and  translation missing for UndoSimStart
+11:41:11: -- Warning: English and  translation missing for Redo
+11:41:14: -- Warning: English and  translation missing for ZoomToScene
+11:41:14: -- Warning: English and  translation missing for ResetView
+11:41:14: -- Warning: English and  translation missing for ImportPhunletMenu
+11:41:14: -- Warning: English and  translation missing for ImportPhunletButton
+11:41:14: -- Warning: English and  translation missing for BackgroundOptionsButton
+11:41:14: -- Warning: English and  translation missing for OptionsTitle
+11:41:14: -- Warning: English and  translation missing for Option_GravitySwitch
+11:41:14: -- Warning: English and  translation missing for Option_AirSwitch
+11:41:14: -- Warning: English and  translation missing for Option_SimSpeed
+11:41:14: -- Warning: English and  translation missing for LabeledSlider_Tooltip
+11:41:14: -- Warning: English and  translation missing for Option_GravityStrength
+11:41:14: -- Warning: English and  translation missing for Option_GravityAngleOffset
+11:41:14: -- Warning: English and  translation missing for Option_AirFrictionMultiplier
+11:41:14: -- Warning: English and  translation missing for Level_Simple
+11:41:14: -- Warning: English and  translation missing for Level_Medium
+11:41:14: -- Warning: English and  translation missing for Level_Advanced
+11:41:14: -- Warning: English and  translation missing for Level
+11:41:14: -- Warning: English and  translation missing for Option_PenInput
+11:41:14: -- Warning: English and  translation missing for Option_Cursor
+11:41:14: -- Warning: English and  translation missing for Option_AllowSelection
+11:41:14: -- Warning: English and  translation missing for Option_Autosave
+11:41:14: -- Warning: English and  translation missing for Option_Shaders
+11:41:14: -- Warning: English and  translation missing for Option_MetaWater
+11:41:14: -- Warning: English and  translation missing for Option_GPUWater
+11:41:14: -- Warning: English and  translation missing for Option_DrawHinges
+11:41:14: -- Warning: English and  translation missing for Option_16BitTextures
+11:41:14: -- Warning: English and  translation missing for ShowScaleIndicator
+11:41:14: -- Warning: English and  translation missing for AutoGlue
+11:41:14: -- Warning: English and  translation missing for DefaultBorders
+11:41:14: -- Warning: English and  translation missing for Interface
+11:41:14: -- Warning: English and  translation missing for Simulation
+11:41:14: -- Warning: English and  translation missing for Rendering
+11:41:14: -- Warning: English and  translation missing for Visualization
+11:41:14: -- Warning: English and  translation missing for None
+11:41:14: -- Warning: English and  translation missing for LayerFilterIntro
+11:41:14: -- Warning: English and  translation missing for Layers
+11:41:14: -- Warning: English and  translation missing for Defaults
+11:41:15: -- Warning: English and  translation missing for ZoomToScene
+11:41:15: -- Warning: English and  translation missing for ResetView
+11:41:15: -- Warning: English and  translation missing for ImportPhunletMenu
+11:41:15: -- Warning: English and  translation missing for ImportPhunletButton
+11:41:15: -- Warning: English and  translation missing for BackgroundOptionsButton
+11:41:18: -- Warning: English and  translation missing for ZoomToScene
+11:41:18: -- Warning: English and  translation missing for ResetView
+11:41:18: -- Warning: English and  translation missing for ImportPhunletMenu
+11:41:18: -- Warning: English and  translation missing for ImportPhunletButton
+11:41:18: -- Warning: English and  translation missing for BackgroundOptionsButton
+11:41:29: -- Warning: English and  translation missing for ZoomToScene
+11:41:29: -- Warning: English and  translation missing for ResetView
+11:41:29: -- Warning: English and  translation missing for ImportPhunletMenu
+11:41:29: -- Warning: English and  translation missing for ImportPhunletButton
+11:41:29: -- Warning: English and  translation missing for BackgroundOptionsButton
+11:41:30: -- Warning: English and  translation missing for Undo
+11:41:30: -- Warning: English and  translation missing for UndoDrag
+11:41:30: -- Warning: English and  translation missing for Redo
+11:41:34: -- Warning: Failed to find image "hinge_motor_brake"
+11:41:36: -- Warning: English and  translation missing for ZoomToScene
+11:41:36: -- Warning: English and  translation missing for ResetView
+11:41:36: -- Warning: English and  translation missing for ImportPhunletMenu
+11:41:36: -- Warning: English and  translation missing for ImportPhunletButton
+11:41:36: -- Warning: English and  translation missing for BackgroundOptionsButton
+11:41:40: -- Warning: Failed to find image "spring_attachment"
+11:41:41: -- Warning: English and  translation missing for Undo
+11:41:41: -- Warning: English and  translation missing for UndoSpring
+11:41:41: -- Warning: English and  translation missing for Redo
+11:41:42: -- Warning: English and  translation missing for Undo
+11:41:42: -- Warning: English and  translation missing for UndoSimStart
+11:41:42: -- Warning: English and  translation missing for Redo
+11:41:43: -- Warning: English and  translation missing for ZoomToScene
+11:41:43: -- Warning: English and  translation missing for ResetView
+11:41:43: -- Warning: English and  translation missing for ImportPhunletMenu
+11:41:43: -- Warning: English and  translation missing for ImportPhunletButton
+11:41:43: -- Warning: English and  translation missing for BackgroundOptionsButton
+11:41:44: -- Warning: Failed to find image "gui/checkbox-unknown"
+11:42:13: -- Warning: English and  translation missing for Undo
+11:42:13: -- Warning: English and  translation missing for UndoDrag
+11:42:13: -- Warning: English and  translation missing for Redo
+11:42:28: -- Warning: English and  translation missing for ZoomToScene
+11:42:28: -- Warning: English and  translation missing for ResetView
+11:42:28: -- Warning: English and  translation missing for ImportPhunletMenu
+11:42:28: -- Warning: English and  translation missing for ImportPhunletButton
+11:42:28: -- Warning: English and  translation missing for BackgroundOptionsButton
+11:42:28: -- Warning: English and  translation missing for FileTitle
+11:42:28: -- Warning: English and  translation missing for SaveSceneButton
+11:42:28: -- Warning: Failed to find image "save"
+11:42:28: -- Warning: English and  translation missing for LoadSceneButton
+11:42:28: -- Warning: Failed to find image "open"
+11:42:28: -- Warning: English and  translation missing for ClearScene
+11:42:28: -- Warning: Failed to find image "clear"
+11:42:28: -- Warning: English and  translation missing for NewScene
+11:42:28: -- Warning: Failed to find image "new"
+11:42:28: -- Warning: English and  translation missing for EraseWater
+11:42:28: -- Warning: Failed to find image "erasewater"
+11:42:28: -- Warning: English and  translation missing for ChangeLanguage
+11:42:28: -- Warning: English and  translation missing for MoreTranslations
+11:42:28: -- Warning: Failed to find image "blank"
+11:42:28: -- Warning: English and  translation missing for InfoButton
+11:42:28: -- Warning: Failed to find image "info"
+11:42:28: -- Warning: English and  translation missing for ToggleFullscreen
+11:42:28: -- Warning: Failed to find image "fullscreen"
+11:42:28: -- Warning: English and  translation missing for FindMoreScenes
+11:42:28: -- Warning: Failed to find image "url"
+11:42:28: -- Warning: English and  translation missing for CheckForUpdates
+11:42:28: -- Warning: English and  translation missing for BuyProduct
+11:42:28: -- Warning: English and  translation missing for Exit
+11:42:28: -- Warning: Failed to find image "exit"
+11:42:29: Overwriting old "C:/Users/ArsenLupen/Desktop/Vault/STORAGE/Apps/Phun Lite Edition/scenes/_ONEXITSAVE.phz"
+11:42:30: -- Warning: Failed to serialize texture "ice"
+
+
+-----------------------------
+  Phun v5.28
+  September 28 2024, 11:44:03
+-----------------------------
+11:44:03: Loading language English...
+11:44:03: -- Warning: Exception thrown: Failed to open file "C:/Users/ArsenLupen/Desktop/Vault/STORAGE/Apps/Phun Lite Edition/data/language/English.cfg" from c:/emilk/phun/trunk/Source/gui/../util/FILEWrapper.hpp:28: util::FILEWrapper::FILEWrapper(const util::String&, const util::String&)
+11:44:03: -- Warning: Error loading language English: Failed to open file "C:/Users/ArsenLupen/Desktop/Vault/STORAGE/Apps/Phun Lite Edition/data/language/English.cfg"
+11:44:04: -- Warning: Failed to find image "C:/Users/ArsenLupen/Desktop/Vault/STORAGE/Apps/Phun Lite Edition/data/textures/mouse"
+11:44:04: -- Warning: Failed to find cursor texture
+11:44:04: -- Warning: English and  translation missing for FileButton
+11:44:04: -- Warning: Failed to find image "down_arrow"
+11:44:04: -- Warning: English and  translation missing for ToolbarButton
+11:44:04: -- Warning: English and  translation missing for SimControlButton
+11:44:04: -- Warning: English and  translation missing for EntityOptionsButton
+11:44:04: -- Warning: English and  translation missing for OptionsButton
+11:44:04: -- Warning: English and  translation missing for HelpButton
+11:44:04: -- Warning: English and  translation missing for AboutButton
+11:44:04: -- Warning: English and  translation missing for HideWindows
+11:44:04: -- Warning: Failed to find image "logos/algodoo_phun_edition_16px"
+11:44:04: No tablet found (or Wintab32.dll missing)
+11:44:04: Parsing C:/Users/ArsenLupen/Desktop/Vault/STORAGE/Apps/Phun Lite Edition/autoexec.cfg...
+11:44:04: -- Warning: Exception thrown: line 11 'n': Missing { from c:/emilk/phun/trunk/Source/script/Parser.cpp:33: void script::ParserAssert(const script::Token&, bool, const util::String&)
+11:44:04: -- Warning: Caught exception: line 11 'n': Missing {, c:/emilk/phun/trunk/Source/script/Parser.cpp:200: script::CodeBlockPtr script::Parser::Parse(const script::TokenList&, script::ReflectedPtr)
+11:44:04: Parsing C:/Users/ArsenLupen/Desktop/Vault/STORAGE/Apps/Phun Lite Edition/config.cfg...
+11:44:04: -- Warning: Failed to find image "gui/minimize"
+11:44:04: -- Warning: Failed to find image "backward"
+11:44:04: -- Warning: English and  translation missing for Undo
+11:44:04: -- Warning: Failed to find image "forward"
+11:44:04: -- Warning: English and  translation missing for Redo
+11:44:04: -- Warning: English and  translation missing for Zoom
+11:44:04: -- Warning: English and  translation missing for LabeledSlider_Tooltip
+11:44:04: -- Warning: Failed to find image "zoom"
+11:44:04: -- Warning: Failed to find image "navigator"
+11:44:04: -- Warning: English and  translation missing for ZoomToScene
+11:44:04: -- Warning: Failed to find image "zoom2scene"
+11:44:04: -- Warning: English and  translation missing for ResetView
+11:44:04: -- Warning: Failed to find image "center"
+11:44:04: -- Warning: English and  translation missing for ImportPhunletMenu
+11:44:04: -- Warning: English and  translation missing for ImportPhunletButton
+11:44:04: -- Warning: Failed to find image "import_phunlet"
+11:44:04: -- Warning: Failed to find image "rightarrow"
+11:44:04: -- Warning: English and  translation missing for BackgroundOptionsButton
+11:44:04: -- Warning: Failed to find image "color"
+11:44:04: -- Warning: Failed to find image "move"
+11:44:04: -- Warning: English and  translation missing for ToolMove
+11:44:04: -- Warning: Failed to find image "drag"
+11:44:04: -- Warning: English and  translation missing for ToolDrag
+11:44:04: -- Warning: Failed to find image "rotate"
+11:44:04: -- Warning: English and  translation missing for ToolRotate
+11:44:04: -- Warning: Failed to find image "scale"
+11:44:04: -- Warning: English and  translation missing for ToolScale
+11:44:04: -- Warning: Failed to find image "cut"
+11:44:04: -- Warning: English and  translation missing for ToolCut
+11:44:04: -- Warning: Failed to find image "polygon"
+11:44:04: -- Warning: English and  translation missing for ToolPolygon
+11:44:04: -- Warning: Failed to find image "brush"
+11:44:04: -- Warning: English and  translation missing for ToolBrush
+11:44:04: -- Warning: Failed to find image "box"
+11:44:04: -- Warning: English and  translation missing for ToolBox
+11:44:04: -- Warning: Failed to find image "circle"
+11:44:04: -- Warning: English and  translation missing for ToolCircle
+11:44:04: -- Warning: Failed to find image "gears"
+11:44:04: -- Warning: English and  translation missing for ToolGears
+11:44:04: -- Warning: Failed to find image "plane"
+11:44:04: -- Warning: English and  translation missing for ToolPlane
+11:44:04: -- Warning: Failed to find image "chain"
+11:44:04: -- Warning: English and  translation missing for ToolChain
+11:44:04: -- Warning: Failed to find image "spring"
+11:44:04: -- Warning: English and  translation missing for ToolSpring
+11:44:04: -- Warning: Failed to find image "tool_fixjoint"
+11:44:04: -- Warning: English and  translation missing for ToolFixJoint
+11:44:04: -- Warning: Failed to find image "hinge"
+11:44:04: -- Warning: English and  translation missing for ToolHinge
+11:44:04: -- Warning: Failed to find image "tool_tracer"
+11:44:04: -- Warning: English and  translation missing for ToolTracer
+11:44:04: Creating window...
+11:44:04: -- Warning: English and  translation missing for Loading
+11:44:04: -- Warning: English and  translation missing for PleaseWait
+11:44:05: -- Warning: Failed to find image "textures/tool_fixjoint"
+11:44:05: -- Warning: Failed to find image "textures/hinge"
+11:44:05: -- Warning: Failed to find image "textures/tool_tracer"
+11:44:05: -- Warning: Failed to find image "textures/move"
+11:44:05: -- Warning: Failed to find image "textures/drag"
+11:44:05: -- Warning: Failed to find image "textures/scale"
+11:44:05: -- Warning: Failed to find image "textures/brush"
+11:44:05: -- Warning: Failed to find image "textures/chain"
+11:44:05: -- Warning: Failed to find image "textures/plane"
+11:44:05: -- Warning: Failed to find image "textures/spring"
+11:44:06: -- Warning: Failed to find image "textures/rotate"
+11:44:06: -- Warning: Failed to find image "textures/cut"
+11:44:06: -- Warning: Failed to find image "textures/polygon"
+11:44:06: -- Warning: Failed to find image "textures/box"
+11:44:06: -- Warning: Failed to find image "textures/circle"
+11:44:06: -- Warning: Failed to find image "textures/gears"
+11:44:06: 68 resources loaded
+11:44:06: Window created.
+11:44:06: Initializing thread-pool...
+11:44:06: Prefetching resources...
+11:44:07: Creaing GUI...
+11:44:07: -- Warning: English and  translation missing for GearSize
+11:44:07: -- Warning: English and  translation missing for GearOuter
+11:44:07: -- Warning: English and  translation missing for GearInner
+11:44:07: -- Warning: English and  translation missing for GearThickness
+11:44:07: Loading C:/Users/ArsenLupen/Desktop/Vault/STORAGE/Apps/Phun Lite Edition/scenes/_ONEXITSAVE.phz...
+11:44:11: -- Warning: Failed to find image "ice"
+11:44:11: -- Warning: Failed to find image "C:/Users/ArsenLupen/Desktop/Vault/STORAGE/Apps/Phun Lite Edition/textures/ice"
+11:44:11: -- Warning: Failed to find image "gui/checkbox-unknown"
+11:44:12: Loaded scene C:/Users/ArsenLupen/Desktop/Vault/STORAGE/Apps/Phun Lite Edition/scenes/_ONEXITSAVE.phz
+11:44:12: -- Warning: English and  translation missing for UndoLoadScene
+11:44:12: Running program...
+11:44:12: -- Warning: Failed to find image "logos/algodoo_phun_edition_stacked"
+11:44:12: -- Warning: Failed to find image "logos/algoryx"
+11:44:12: -- Warning: Failed to find image "hinge_motor"
+11:44:12: -- Warning: Failed to find image "hinge_motor_cw"
+11:44:12: -- Warning: Failed to find image "hinge_inner"
+11:44:12: -- Warning: Failed to find image "hinge_background"
+11:44:12: -- Warning: Failed to find image "hinge_balls"
+11:44:13: -- Warning: Failed to find image "hinge_motor_ccw"
+11:44:13: -- Warning: Failed to find image "fixjoint"
+11:44:13: -- Warning: Failed to find image "spring_attachment"
+11:44:18: -- Warning: Failed to find image "ring"
+11:44:18: -- Warning: English and  translation missing for ZoomToScene
+11:44:18: -- Warning: English and  translation missing for ResetView
+11:44:18: -- Warning: English and  translation missing for ImportPhunletMenu
+11:44:18: -- Warning: English and  translation missing for ImportPhunletButton
+11:44:18: -- Warning: English and  translation missing for BackgroundOptionsButton
+11:44:18: -- Warning: English and  translation missing for FileTitle
+11:44:18: -- Warning: English and  translation missing for SaveSceneButton
+11:44:18: -- Warning: Failed to find image "save"
+11:44:18: -- Warning: English and  translation missing for LoadSceneButton
+11:44:18: -- Warning: Failed to find image "open"
+11:44:18: -- Warning: English and  translation missing for ClearScene
+11:44:18: -- Warning: Failed to find image "clear"
+11:44:18: -- Warning: English and  translation missing for NewScene
+11:44:18: -- Warning: Failed to find image "new"
+11:44:18: -- Warning: English and  translation missing for EraseWater
+11:44:18: -- Warning: Failed to find image "erasewater"
+11:44:18: -- Warning: English and  translation missing for ChangeLanguage
+11:44:18: -- Warning: English and  translation missing for MoreTranslations
+11:44:18: -- Warning: Failed to find image "blank"
+11:44:18: -- Warning: English and  translation missing for InfoButton
+11:44:18: -- Warning: Failed to find image "info"
+11:44:18: -- Warning: English and  translation missing for ToggleFullscreen
+11:44:18: -- Warning: Failed to find image "fullscreen"
+11:44:18: -- Warning: English and  translation missing for FindMoreScenes
+11:44:18: -- Warning: Failed to find image "url"
+11:44:18: -- Warning: English and  translation missing for CheckForUpdates
+11:44:18: -- Warning: English and  translation missing for BuyProduct
+11:44:18: -- Warning: English and  translation missing for Exit
+11:44:18: -- Warning: Failed to find image "exit"
+11:44:20: Overwriting old "C:/Users/ArsenLupen/Desktop/Vault/STORAGE/Apps/Phun Lite Edition/scenes/_ONEXITSAVE.phz"
+11:44:22: -- Warning: Failed to serialize texture "ice"
+
+
+-----------------------------
+  Phun v5.28
+  September 28 2024, 11:44:35
+-----------------------------
+11:44:35: Loading language English...
+11:44:35: -- Warning: Exception thrown: Failed to open file "C:/Users/ArsenLupen/Desktop/Vault/STORAGE/Apps/Phun Lite Edition/data/language/English.cfg" from c:/emilk/phun/trunk/Source/gui/../util/FILEWrapper.hpp:28: util::FILEWrapper::FILEWrapper(const util::String&, const util::String&)
+11:44:35: -- Warning: Error loading language English: Failed to open file "C:/Users/ArsenLupen/Desktop/Vault/STORAGE/Apps/Phun Lite Edition/data/language/English.cfg"
+11:44:35: -- Warning: Failed to find image "C:/Users/ArsenLupen/Desktop/Vault/STORAGE/Apps/Phun Lite Edition/data/textures/mouse"
+11:44:35: -- Warning: Failed to find cursor texture
+11:44:35: -- Warning: English and  translation missing for FileButton
+11:44:35: -- Warning: English and  translation missing for ToolbarButton
+11:44:35: -- Warning: English and  translation missing for SimControlButton
+11:44:35: -- Warning: English and  translation missing for EntityOptionsButton
+11:44:35: -- Warning: English and  translation missing for OptionsButton
+11:44:35: -- Warning: English and  translation missing for HelpButton
+11:44:35: -- Warning: English and  translation missing for AboutButton
+11:44:35: -- Warning: English and  translation missing for HideWindows
+11:44:35: -- Warning: Failed to find image "logos/algodoo_phun_edition_16px"
+11:44:35: No tablet found (or Wintab32.dll missing)
+11:44:35: Parsing C:/Users/ArsenLupen/Desktop/Vault/STORAGE/Apps/Phun Lite Edition/autoexec.cfg...
+11:44:35: -- Warning: Exception thrown: line 11 'n': Missing { from c:/emilk/phun/trunk/Source/script/Parser.cpp:33: void script::ParserAssert(const script::Token&, bool, const util::String&)
+11:44:35: -- Warning: Caught exception: line 11 'n': Missing {, c:/emilk/phun/trunk/Source/script/Parser.cpp:200: script::CodeBlockPtr script::Parser::Parse(const script::TokenList&, script::ReflectedPtr)
+11:44:36: Parsing C:/Users/ArsenLupen/Desktop/Vault/STORAGE/Apps/Phun Lite Edition/config.cfg...
+11:44:36: -- Warning: Failed to find image "gui/minimize"
+11:44:36: -- Warning: Failed to find image "backward"
+11:44:36: -- Warning: English and  translation missing for Undo
+11:44:36: -- Warning: Failed to find image "forward"
+11:44:36: -- Warning: English and  translation missing for Redo
+11:44:36: -- Warning: English and  translation missing for Zoom
+11:44:36: -- Warning: English and  translation missing for LabeledSlider_Tooltip
+11:44:36: -- Warning: Failed to find image "zoom"
+11:44:36: -- Warning: Failed to find image "navigator"
+11:44:36: -- Warning: English and  translation missing for ZoomToScene
+11:44:36: -- Warning: Failed to find image "zoom2scene"
+11:44:36: -- Warning: English and  translation missing for ResetView
+11:44:36: -- Warning: Failed to find image "center"
+11:44:36: -- Warning: English and  translation missing for ImportPhunletMenu
+11:44:36: -- Warning: English and  translation missing for ImportPhunletButton
+11:44:36: -- Warning: Failed to find image "import_phunlet"
+11:44:36: -- Warning: Failed to find image "rightarrow"
+11:44:36: -- Warning: English and  translation missing for BackgroundOptionsButton
+11:44:36: -- Warning: Failed to find image "color"
+11:44:36: -- Warning: Failed to find image "move"
+11:44:36: -- Warning: English and  translation missing for ToolMove
+11:44:36: -- Warning: Failed to find image "drag"
+11:44:36: -- Warning: English and  translation missing for ToolDrag
+11:44:36: -- Warning: Failed to find image "rotate"
+11:44:36: -- Warning: English and  translation missing for ToolRotate
+11:44:36: -- Warning: Failed to find image "scale"
+11:44:36: -- Warning: English and  translation missing for ToolScale
+11:44:36: -- Warning: Failed to find image "cut"
+11:44:36: -- Warning: English and  translation missing for ToolCut
+11:44:36: -- Warning: Failed to find image "polygon"
+11:44:36: -- Warning: English and  translation missing for ToolPolygon
+11:44:36: -- Warning: Failed to find image "brush"
+11:44:36: -- Warning: English and  translation missing for ToolBrush
+11:44:36: -- Warning: Failed to find image "box"
+11:44:36: -- Warning: English and  translation missing for ToolBox
+11:44:36: -- Warning: Failed to find image "circle"
+11:44:36: -- Warning: English and  translation missing for ToolCircle
+11:44:36: -- Warning: Failed to find image "gears"
+11:44:36: -- Warning: English and  translation missing for ToolGears
+11:44:36: -- Warning: Failed to find image "plane"
+11:44:36: -- Warning: English and  translation missing for ToolPlane
+11:44:36: -- Warning: Failed to find image "chain"
+11:44:36: -- Warning: English and  translation missing for ToolChain
+11:44:36: -- Warning: Failed to find image "spring"
+11:44:36: -- Warning: English and  translation missing for ToolSpring
+11:44:36: -- Warning: Failed to find image "tool_fixjoint"
+11:44:36: -- Warning: English and  translation missing for ToolFixJoint
+11:44:36: -- Warning: Failed to find image "hinge"
+11:44:36: -- Warning: English and  translation missing for ToolHinge
+11:44:36: -- Warning: Failed to find image "tool_tracer"
+11:44:36: -- Warning: English and  translation missing for ToolTracer
+11:44:36: Creating window...
+11:44:36: -- Warning: English and  translation missing for Loading
+11:44:36: -- Warning: English and  translation missing for PleaseWait
+11:44:36: -- Warning: Failed to find image "textures/cut"
+11:44:36: -- Warning: Failed to find image "textures/brush"
+11:44:36: -- Warning: Failed to find image "textures/box"
+11:44:36: -- Warning: Failed to find image "textures/circle"
+11:44:36: -- Warning: Failed to find image "textures/spring"
+11:44:36: -- Warning: Failed to find image "textures/tool_fixjoint"
+11:44:37: -- Warning: Failed to find image "textures/move"
+11:44:37: -- Warning: Failed to find image "textures/drag"
+11:44:37: -- Warning: Failed to find image "textures/polygon"
+11:44:37: -- Warning: Failed to find image "textures/gears"
+11:44:37: -- Warning: Failed to find image "textures/plane"
+11:44:37: -- Warning: Failed to find image "textures/chain"
+11:44:37: -- Warning: Failed to find image "textures/hinge"
+11:44:37: -- Warning: Failed to find image "textures/tool_tracer"
+11:44:38: -- Warning: Failed to find image "textures/scale"
+11:44:38: -- Warning: Failed to find image "textures/rotate"
+11:44:38: 68 resources loaded
+11:44:38: Window created.
+11:44:38: Initializing thread-pool...
+11:44:38: Prefetching resources...
+11:44:39: Creaing GUI...
+11:44:39: -- Warning: English and  translation missing for GearSize
+11:44:39: -- Warning: English and  translation missing for GearOuter
+11:44:39: -- Warning: English and  translation missing for GearInner
+11:44:39: -- Warning: English and  translation missing for GearThickness
+11:44:39: Loading C:/Users/ArsenLupen/Desktop/Vault/STORAGE/Apps/Phun Lite Edition/scenes/_ONEXITSAVE.phz...
+11:44:43: -- Warning: Failed to find image "ice"
+11:44:43: -- Warning: Failed to find image "C:/Users/ArsenLupen/Desktop/Vault/STORAGE/Apps/Phun Lite Edition/textures/ice"
+11:44:43: -- Warning: Failed to find image "gui/checkbox-unknown"
+11:44:43: Loaded scene C:/Users/ArsenLupen/Desktop/Vault/STORAGE/Apps/Phun Lite Edition/scenes/_ONEXITSAVE.phz
+11:44:43: -- Warning: English and  translation missing for UndoLoadScene
+11:44:43: Running program...
+11:44:43: -- Warning: Failed to find image "logos/algodoo_phun_edition_stacked"
+11:44:43: -- Warning: Failed to find image "logos/algoryx"
+11:44:43: -- Warning: Failed to find image "hinge_motor"
+11:44:43: -- Warning: Failed to find image "hinge_motor_cw"
+11:44:43: -- Warning: Failed to find image "hinge_inner"
+11:44:43: -- Warning: Failed to find image "hinge_background"
+11:44:43: -- Warning: Failed to find image "hinge_balls"
+11:44:43: -- Warning: Failed to find image "hinge_motor_ccw"
+11:44:43: -- Warning: Failed to find image "fixjoint"
+11:44:43: -- Warning: Failed to find image "spring_attachment"
+11:44:48: -- Warning: Failed to find image "ring"
+11:44:57: -- Warning: English and  translation missing for ZoomToScene
+11:44:57: -- Warning: English and  translation missing for ResetView
+11:44:57: -- Warning: English and  translation missing for ImportPhunletMenu
+11:44:57: -- Warning: English and  translation missing for ImportPhunletButton
+11:44:57: -- Warning: English and  translation missing for BackgroundOptionsButton
+11:44:57: -- Warning: English and  translation missing for FileTitle
+11:44:57: -- Warning: English and  translation missing for SaveSceneButton
+11:44:57: -- Warning: Failed to find image "save"
+11:44:57: -- Warning: English and  translation missing for LoadSceneButton
+11:44:57: -- Warning: Failed to find image "open"
+11:44:57: -- Warning: English and  translation missing for ClearScene
+11:44:57: -- Warning: Failed to find image "clear"
+11:44:57: -- Warning: English and  translation missing for NewScene
+11:44:57: -- Warning: Failed to find image "new"
+11:44:57: -- Warning: English and  translation missing for EraseWater
+11:44:57: -- Warning: Failed to find image "erasewater"
+11:44:57: -- Warning: English and  translation missing for ChangeLanguage
+11:44:57: -- Warning: English and  translation missing for MoreTranslations
+11:44:57: -- Warning: Failed to find image "blank"
+11:44:57: -- Warning: English and  translation missing for InfoButton
+11:44:57: -- Warning: Failed to find image "info"
+11:44:57: -- Warning: English and  translation missing for ToggleFullscreen
+11:44:57: -- Warning: Failed to find image "fullscreen"
+11:44:57: -- Warning: English and  translation missing for FindMoreScenes
+11:44:57: -- Warning: Failed to find image "url"
+11:44:57: -- Warning: English and  translation missing for CheckForUpdates
+11:44:57: -- Warning: English and  translation missing for BuyProduct
+11:44:57: -- Warning: English and  translation missing for Exit
+11:44:57: -- Warning: Failed to find image "exit"
+11:45:00: Overwriting old "C:/Users/ArsenLupen/Desktop/Vault/STORAGE/Apps/Phun Lite Edition/scenes/_ONEXITSAVE.phz"
+11:45:02: -- Warning: Failed to serialize texture "ice"
+
+
+-----------------------------
+  Phun v5.28
+  September 28 2024, 11:45:58
+-----------------------------
+11:45:58: Loading language English...
+11:45:58: -- Warning: Failed to find image "C:/Users/ArsenLupen/Desktop/Vault/STORAGE/Apps/Phun Lite Edition/data/textures/mouse"
+11:45:58: -- Warning: Failed to find cursor texture
+11:45:58: -- Warning: Failed to find image "logos/algodoo_phun_edition_16px"
+11:45:58: No tablet found (or Wintab32.dll missing)
+11:45:58: Parsing C:/Users/ArsenLupen/Desktop/Vault/STORAGE/Apps/Phun Lite Edition/autoexec.cfg...
+11:45:58: -- Warning: Exception thrown: line 11 'n': Missing { from c:/emilk/phun/trunk/Source/script/Parser.cpp:33: void script::ParserAssert(const script::Token&, bool, const util::String&)
+11:45:59: -- Warning: Caught exception: line 11 'n': Missing {, c:/emilk/phun/trunk/Source/script/Parser.cpp:200: script::CodeBlockPtr script::Parser::Parse(const script::TokenList&, script::ReflectedPtr)
+11:45:59: Parsing C:/Users/ArsenLupen/Desktop/Vault/STORAGE/Apps/Phun Lite Edition/config.cfg...
+11:45:59: -- Warning: Failed to find image "gui/minimize"
+11:45:59: -- Warning: Failed to find image "backward"
+11:45:59: -- Warning: Failed to find image "forward"
+11:45:59: -- Warning: Failed to find image "zoom"
+11:45:59: -- Warning: Failed to find image "navigator"
+11:45:59: -- Warning: Failed to find image "zoom2scene"
+11:45:59: -- Warning: Failed to find image "center"
+11:45:59: -- Warning: Failed to find image "import_phunlet"
+11:45:59: -- Warning: Failed to find image "rightarrow"
+11:45:59: -- Warning: Failed to find image "color"
+11:45:59: -- Warning: Failed to find image "move"
+11:45:59: -- Warning: Failed to find image "drag"
+11:45:59: -- Warning: Failed to find image "rotate"
+11:45:59: -- Warning: Failed to find image "scale"
+11:45:59: -- Warning: Failed to find image "cut"
+11:45:59: -- Warning: Failed to find image "polygon"
+11:45:59: -- Warning: Failed to find image "brush"
+11:45:59: -- Warning: Failed to find image "box"
+11:45:59: -- Warning: Failed to find image "circle"
+11:45:59: -- Warning: Failed to find image "gears"
+11:45:59: -- Warning: Failed to find image "plane"
+11:45:59: -- Warning: Failed to find image "chain"
+11:45:59: -- Warning: Failed to find image "spring"
+11:45:59: -- Warning: Failed to find image "tool_fixjoint"
+11:45:59: -- Warning: Failed to find image "hinge"
+11:45:59: -- Warning: Failed to find image "tool_tracer"
+11:45:59: Creating window...
+11:46:00: -- Warning: Failed to find image "textures/gears"
+11:46:00: -- Warning: Failed to find image "textures/plane"
+11:46:00: -- Warning: Failed to find image "textures/chain"
+11:46:00: -- Warning: Failed to find image "textures/spring"
+11:46:00: -- Warning: Failed to find image "textures/tool_fixjoint"
+11:46:00: -- Warning: Failed to find image "textures/hinge"
+11:46:00: -- Warning: Failed to find image "textures/tool_tracer"
+11:46:00: -- Warning: Failed to find image "textures/move"
+11:46:00: -- Warning: Failed to find image "textures/rotate"
+11:46:00: -- Warning: Failed to find image "textures/scale"
+11:46:00: -- Warning: Failed to find image "textures/polygon"
+11:46:00: -- Warning: Failed to find image "textures/cut"
+11:46:00: -- Warning: Failed to find image "textures/box"
+11:46:00: -- Warning: Failed to find image "textures/circle"
+11:46:00: -- Warning: Failed to find image "textures/brush"
+11:46:00: -- Warning: Failed to find image "textures/drag"
+11:46:01: 68 resources loaded
+11:46:01: Window created.
+11:46:01: Initializing thread-pool...
+11:46:01: Prefetching resources...
+11:46:02: Creaing GUI...
+11:46:02: Loading C:/Users/ArsenLupen/Desktop/Vault/STORAGE/Apps/Phun Lite Edition/scenes/_ONEXITSAVE.phz...
+11:46:06: -- Warning: Failed to find image "ice"
+11:46:07: -- Warning: Failed to find image "C:/Users/ArsenLupen/Desktop/Vault/STORAGE/Apps/Phun Lite Edition/textures/ice"
+11:46:07: -- Warning: Failed to find image "gui/checkbox-unknown"
+11:46:07: Loaded scene C:/Users/ArsenLupen/Desktop/Vault/STORAGE/Apps/Phun Lite Edition/scenes/_ONEXITSAVE.phz
+11:46:07: Running program...
+11:46:07: -- Warning: Failed to find image "logos/algodoo_phun_edition_stacked"
+11:46:07: -- Warning: Failed to find image "logos/algoryx"
+11:46:07: -- Warning: Failed to find image "hinge_motor"
+11:46:07: -- Warning: Failed to find image "hinge_motor_cw"
+11:46:07: -- Warning: Failed to find image "hinge_inner"
+11:46:07: -- Warning: Failed to find image "hinge_background"
+11:46:07: -- Warning: Failed to find image "hinge_balls"
+11:46:07: -- Warning: Failed to find image "hinge_motor_ccw"
+11:46:07: -- Warning: Failed to find image "fixjoint"
+11:46:07: -- Warning: Failed to find image "spring_attachment"
+11:46:09: -- Warning: Failed to find image "ring"
+11:46:37: -- Warning: Failed to find image "hinge_motor_brake"
+11:46:42: -- Warning: Failed to find image "erase"
+11:46:42: -- Warning: Failed to find image "clone"
+11:46:42: -- Warning: Failed to find image "mirror"
+11:46:42: -- Warning: Failed to find image "blank"
+11:46:42: -- Warning: Failed to find image "info"
+11:47:37: -- Warning: Failed to find image "pan"
+11:47:42: -- Warning: English and English translation missing for For
+11:47:42: -- Warning: Failed to find image "gui/showgroup"
+11:47:43: -- Warning: English and English translation missing for For
+11:47:43: -- Warning: Failed to find image "glue"
+11:47:43: -- Warning: Failed to find image "tracer"
+11:47:43: -- Warning: Failed to find image "liquify"
+11:47:43: -- Warning: Failed to find image "gearify"
+11:47:43: -- Warning: Failed to find image "2circle"
+11:47:43: -- Warning: Failed to find image "2box"
+11:47:49: -- Warning: English and English translation missing for For
+11:47:49: -- Warning: Failed to find image "csg_cut"
+11:47:49: -- Warning: Failed to find image "csg_intersection"
+11:47:49: -- Warning: Failed to find image "csg_difference"
+11:47:49: -- Warning: Failed to find image "csg_union"
+11:47:49: -- Warning: English and English translation missing for For
+11:48:13: -- Warning: Failed to find image "arrow_north-south"
+11:48:30: -- Warning: Failed to find image "arrow_north-west"
+11:48:36: -- Warning: Failed to find image "hingemenu"
+11:49:51: -- Warning: Failed to find image "springmenu"
+11:50:25: -- Warning: English and English translation missing for For
+11:50:26: -- Warning: English and English translation missing for For
+11:51:16: -- Warning: Failed to find image "save"
+11:51:16: -- Warning: Failed to find image "open"
+11:51:16: -- Warning: Failed to find image "clear"
+11:51:16: -- Warning: Failed to find image "new"
+11:51:16: -- Warning: Failed to find image "erasewater"
+11:51:16: -- Warning: Failed to find image "C:/Users/ArsenLupen/Desktop/Vault/STORAGE/Apps/Phun Lite Edition/data/language/English"
+11:51:16: -- Warning: English and English translation missing for MoreTranslations
+11:51:16: -- Warning: Failed to find image "fullscreen"
+11:51:16: -- Warning: Failed to find image "url"
+11:51:16: -- Warning: Failed to find image "exit"
+11:51:26: Loading C:/Users/ArsenLupen/Desktop/Vault/STORAGE/Apps/Phun Lite Edition/scenes/towerkill.phn...
+11:51:26: Old (pre beta 4) file type detected
+11:51:27: Loaded scene C:/Users/ArsenLupen/Desktop/Vault/STORAGE/Apps/Phun Lite Edition/scenes/towerkill.phn
+11:52:12: -- Warning: English and English translation missing for MoreTranslations
+11:52:19: Loading C:/Users/ArsenLupen/Desktop/Vault/STORAGE/Apps/Phun Lite Edition/scenes/Anti-gravity room.phz...
+11:52:20: -- Warning: Failed to find image "blank"
+11:52:20: -- Warning: Failed to find image "box"
+11:52:20: -- Warning: Failed to find image "mirror"
+11:52:20: -- Warning: Failed to find image "2box"
+11:52:20: -- Warning: Failed to find image "import_phunlet"
+11:52:20: -- Warning: Failed to find image "hinge"
+11:52:20: -- Warning: Failed to find image "C:/Users/ArsenLupen/Desktop/Vault/STORAGE/Apps/Phun Lite Edition/textures/ice"
+11:52:20: -- Warning: Failed to find image "csg_difference"
+11:52:20: -- Warning: Failed to find image "save"
+11:52:21: -- Warning: Failed to find image "zoom"
+11:52:21: -- Warning: Failed to find image "hinge_inner"
+11:52:21: -- Warning: Failed to find image "gui/checkbox-unknown"
+11:52:21: -- Warning: Failed to find image "erase"
+11:52:21: -- Warning: Failed to find image "gui/showgroup"
+11:52:21: -- Warning: Failed to find image "C:/Users/ArsenLupen/Desktop/Vault/STORAGE/Apps/Phun Lite Edition/data/language/English"
+11:52:21: -- Warning: Failed to find image "tool_fixjoint"
+11:52:21: -- Warning: Failed to find image "hinge_motor_brake"
+11:52:21: -- Warning: Failed to find image "drag"
+11:52:21: -- Warning: Failed to find image "circle"
+11:52:21: -- Warning: Failed to find image "info"
+11:52:21: -- Warning: Failed to find image "clone"
+11:52:21: -- Warning: Failed to find image "spring_attachment"
+11:52:21: -- Warning: Failed to find image "zoom2scene"
+11:52:21: -- Warning: Failed to find image "ring"
+11:52:21: -- Warning: Failed to find image "csg_cut"
+11:52:21: -- Warning: Failed to find image "logos/algoryx"
+11:52:21: -- Warning: Failed to find image "hinge_background"
+11:52:21: -- Warning: Failed to find image "logos/algodoo_phun_edition_stacked"
+11:52:21: -- Warning: Failed to find image "fullscreen"
+11:52:21: -- Warning: Failed to find image "plane"
+11:52:21: -- Warning: Failed to find image "navigator"
+11:52:21: -- Warning: Failed to find image "hinge_motor_ccw"
+11:52:21: -- Warning: Failed to find image "new"
+11:52:21: -- Warning: Failed to find image "gearify"
+11:52:21: -- Warning: Failed to find image "hingemenu"
+11:52:21: -- Warning: Failed to find image "erasewater"
+11:52:21: -- Warning: Failed to find image "tool_tracer"
+11:52:21: -- Warning: Failed to find image "logos/algodoo_phun_edition_16px"
+11:52:21: -- Warning: Failed to find image "liquify"
+11:52:21: -- Warning: Failed to find image "pan"
+11:52:21: -- Warning: Failed to find image "hinge_motor"
+11:52:21: -- Warning: Failed to find image "open"
+11:52:21: -- Warning: Failed to find image "exit"
+11:52:21: -- Warning: Failed to find image "rotate"
+11:52:21: -- Warning: Failed to find image "arrow_north-west"
+11:52:21: -- Warning: Failed to find image "hinge_balls"
+11:52:21: -- Warning: Failed to find image "forward"
+11:52:21: -- Warning: Failed to find image "chain"
+11:52:21: -- Warning: Failed to find image "csg_union"
+11:52:21: -- Warning: Failed to find image "arrow_north-south"
+11:52:21: -- Warning: Failed to find image "glue"
+11:52:21: -- Warning: Failed to find image "gears"
+11:52:21: -- Warning: Failed to find image "C:/Users/ArsenLupen/Desktop/Vault/STORAGE/Apps/Phun Lite Edition/data/textures/mouse"
+11:52:21: -- Warning: Failed to find image "polygon"
+11:52:21: -- Warning: Failed to find image "ice"
+11:52:21: -- Warning: Failed to find image "2circle"
+11:52:21: -- Warning: Failed to find image "fixjoint"
+11:52:21: -- Warning: Failed to find image "gui/minimize"
+11:52:21: -- Warning: Failed to find image "csg_intersection"
+11:52:21: -- Warning: Failed to find image "scale"
+11:52:21: -- Warning: Failed to find image "spring"
+11:52:21: -- Warning: Failed to find image "rightarrow"
+11:52:21: -- Warning: Failed to find image "move"
+11:52:21: -- Warning: Failed to find image "cut"
+11:52:21: -- Warning: Failed to find image "color"
+11:52:21: -- Warning: Failed to find image "hinge_motor_cw"
+11:52:21: -- Warning: Failed to find image "brush"
+11:52:21: -- Warning: Failed to find image "clear"
+11:52:21: -- Warning: Failed to find image "backward"
+11:52:21: -- Warning: Failed to find image "url"
+11:52:21: -- Warning: Failed to find image "center"
+11:52:21: -- Warning: Failed to find image "tracer"
+11:52:21: -- Warning: Failed to find image "springmenu"
+11:52:21: Loaded scene C:/Users/ArsenLupen/Desktop/Vault/STORAGE/Apps/Phun Lite Edition/scenes/Anti-gravity room.phz
+11:52:24: -- Warning: English and English translation missing for MoreTranslations
+11:52:33: Loading C:/Users/ArsenLupen/Desktop/Vault/STORAGE/Apps/Phun Lite Edition/scenes/triroller.phn...
+11:52:33: Old (pre beta 4) file type detected
+11:52:33: Loaded scene C:/Users/ArsenLupen/Desktop/Vault/STORAGE/Apps/Phun Lite Edition/scenes/triroller.phn
+11:52:41: -- Warning: English and English translation missing for For
+11:52:43: -- Warning: English and English translation missing for For
+11:52:43: -- Warning: Failed to find image "C:/Users/ArsenLupen/Desktop/Vault/STORAGE/Apps/Phun Lite Edition/materials/glass"
+11:52:43: -- Warning: Failed to find image "C:/Users/ArsenLupen/Desktop/Vault/STORAGE/Apps/Phun Lite Edition/materials/helium"
+11:52:43: -- Warning: Failed to find image "C:/Users/ArsenLupen/Desktop/Vault/STORAGE/Apps/Phun Lite Edition/materials/ice"
+11:52:43: -- Warning: English and English translation missing for For
+11:53:08: -- Warning: English and English translation missing for MoreTranslations
+11:53:26: Loading C:/Users/ArsenLupen/Desktop/Vault/STORAGE/Apps/Phun Lite Edition/scenes/towerkill.phn...
+11:53:26: Old (pre beta 4) file type detected
+11:53:27: Loaded scene C:/Users/ArsenLupen/Desktop/Vault/STORAGE/Apps/Phun Lite Edition/scenes/towerkill.phn
+11:53:29: Loading C:/Users/ArsenLupen/Desktop/Vault/STORAGE/Apps/Phun Lite Edition/scenes/Anti-gravity room.phz...
+11:53:29: -- Warning: Failed to find image "blank"
+11:53:29: -- Warning: Failed to find image "box"
+11:53:29: -- Warning: Failed to find image "mirror"
+11:53:29: -- Warning: Failed to find image "2box"
+11:53:29: -- Warning: Failed to find image "import_phunlet"
+11:53:30: -- Warning: Failed to find image "hinge"
+11:53:30: -- Warning: Failed to find image "C:/Users/ArsenLupen/Desktop/Vault/STORAGE/Apps/Phun Lite Edition/textures/ice"
+11:53:30: -- Warning: Failed to find image "csg_difference"
+11:53:30: -- Warning: Failed to find image "save"
+11:53:30: -- Warning: Failed to find image "zoom"
+11:53:30: -- Warning: Failed to find image "hinge_inner"
+11:53:30: -- Warning: Failed to find image "gui/checkbox-unknown"
+11:53:30: -- Warning: Failed to find image "erase"
+11:53:30: -- Warning: Failed to find image "gui/showgroup"
+11:53:30: -- Warning: Failed to find image "C:/Users/ArsenLupen/Desktop/Vault/STORAGE/Apps/Phun Lite Edition/data/language/English"
+11:53:30: -- Warning: Failed to find image "tool_fixjoint"
+11:53:30: -- Warning: Failed to find image "hinge_motor_brake"
+11:53:30: -- Warning: Failed to find image "drag"
+11:53:30: -- Warning: Failed to find image "circle"
+11:53:30: -- Warning: Failed to find image "info"
+11:53:30: -- Warning: Failed to find image "clone"
+11:53:30: -- Warning: Failed to find image "spring_attachment"
+11:53:30: -- Warning: Failed to find image "zoom2scene"
+11:53:30: -- Warning: Failed to find image "ring"
+11:53:30: -- Warning: Failed to find image "csg_cut"
+11:53:30: -- Warning: Failed to find image "logos/algoryx"
+11:53:30: -- Warning: Failed to find image "hinge_background"
+11:53:30: -- Warning: Failed to find image "logos/algodoo_phun_edition_stacked"
+11:53:30: -- Warning: Failed to find image "fullscreen"
+11:53:30: -- Warning: Failed to find image "plane"
+11:53:30: -- Warning: Failed to find image "navigator"
+11:53:30: -- Warning: Failed to find image "hinge_motor_ccw"
+11:53:30: -- Warning: Failed to find image "new"
+11:53:30: -- Warning: Failed to find image "gearify"
+11:53:30: -- Warning: Failed to find image "hingemenu"
+11:53:30: -- Warning: Failed to find image "erasewater"
+11:53:30: -- Warning: Failed to find image "tool_tracer"
+11:53:30: -- Warning: Failed to find image "logos/algodoo_phun_edition_16px"
+11:53:30: -- Warning: Failed to find image "liquify"
+11:53:30: -- Warning: Failed to find image "pan"
+11:53:30: -- Warning: Failed to find image "hinge_motor"
+11:53:30: -- Warning: Failed to find image "open"
+11:53:30: -- Warning: Failed to find image "exit"
+11:53:30: -- Warning: Failed to find image "C:/Users/ArsenLupen/Desktop/Vault/STORAGE/Apps/Phun Lite Edition/materials/helium"
+11:53:30: -- Warning: Failed to find image "rotate"
+11:53:30: -- Warning: Failed to find image "arrow_north-west"
+11:53:30: -- Warning: Failed to find image "hinge_balls"
+11:53:30: -- Warning: Failed to find image "C:/Users/ArsenLupen/Desktop/Vault/STORAGE/Apps/Phun Lite Edition/materials/glass"
+11:53:30: -- Warning: Failed to find image "forward"
+11:53:30: -- Warning: Failed to find image "chain"
+11:53:30: -- Warning: Failed to find image "csg_union"
+11:53:30: -- Warning: Failed to find image "arrow_north-south"
+11:53:30: -- Warning: Failed to find image "glue"
+11:53:30: -- Warning: Failed to find image "gears"
+11:53:30: -- Warning: Failed to find image "C:/Users/ArsenLupen/Desktop/Vault/STORAGE/Apps/Phun Lite Edition/data/textures/mouse"
+11:53:30: -- Warning: Failed to find image "polygon"
+11:53:30: -- Warning: Failed to find image "ice"
+11:53:30: -- Warning: Failed to find image "2circle"
+11:53:30: -- Warning: Failed to find image "fixjoint"
+11:53:30: -- Warning: Failed to find image "gui/minimize"
+11:53:30: -- Warning: Failed to find image "csg_intersection"
+11:53:30: -- Warning: Failed to find image "scale"
+11:53:30: -- Warning: Failed to find image "spring"
+11:53:30: -- Warning: Failed to find image "rightarrow"
+11:53:30: -- Warning: Failed to find image "move"
+11:53:30: -- Warning: Failed to find image "cut"
+11:53:30: -- Warning: Failed to find image "color"
+11:53:30: -- Warning: Failed to find image "hinge_motor_cw"
+11:53:30: -- Warning: Failed to find image "brush"
+11:53:30: -- Warning: Failed to find image "clear"
+11:53:30: -- Warning: Failed to find image "C:/Users/ArsenLupen/Desktop/Vault/STORAGE/Apps/Phun Lite Edition/materials/ice"
+11:53:30: -- Warning: Failed to find image "backward"
+11:53:30: -- Warning: Failed to find image "url"
+11:53:30: -- Warning: Failed to find image "center"
+11:53:30: -- Warning: Failed to find image "tracer"
+11:53:30: -- Warning: Failed to find image "springmenu"
+11:53:30: Loaded scene C:/Users/ArsenLupen/Desktop/Vault/STORAGE/Apps/Phun Lite Edition/scenes/Anti-gravity room.phz
+11:53:31: Loading C:/Users/ArsenLupen/Desktop/Vault/STORAGE/Apps/Phun Lite Edition/scenes/triroller.phn...
+11:53:31: Old (pre beta 4) file type detected
+11:53:31: Loaded scene C:/Users/ArsenLupen/Desktop/Vault/STORAGE/Apps/Phun Lite Edition/scenes/triroller.phn
+11:53:33: -- Warning: English and English translation missing for For
+11:53:34: -- Warning: English and English translation missing for For
+11:53:43: -- Warning: Failed to find image "rotate_origo.png"
+11:58:00: -- Warning: English and English translation missing for MoreTranslations
+11:58:07: Loading C:/Users/ArsenLupen/Desktop/Vault/STORAGE/Apps/Phun Lite Edition/scenes/zipper.phn...
+11:58:21: Loaded scene C:/Users/ArsenLupen/Desktop/Vault/STORAGE/Apps/Phun Lite Edition/scenes/zipper.phn
+12:01:14: -- Warning: English and English translation missing for MoreTranslations
+12:01:17: Overwriting old "C:/Users/ArsenLupen/Desktop/Vault/STORAGE/Apps/Phun Lite Edition/scenes/_ONEXITSAVE.phz"
+
+
+-----------------------------
+  Phun v5.28
+  September 28 2024, 12:01:54
+-----------------------------
+12:01:54: Loading language English...
+12:01:55: -- Warning: Failed to find image "C:/Users/ArsenLupen/Desktop/Vault/STORAGE/Apps/Phun Lite Edition/data/textures/mouse"
+12:01:55: -- Warning: Failed to find cursor texture
+12:01:55: -- Warning: Failed to find image "logos/algodoo_phun_edition_16px"
+12:01:55: No tablet found (or Wintab32.dll missing)
+12:01:55: Parsing C:/Users/ArsenLupen/Desktop/Vault/STORAGE/Apps/Phun Lite Edition/autoexec.cfg...
+12:01:55: -- Warning: Exception thrown: line 11 'n': Missing { from c:/emilk/phun/trunk/Source/script/Parser.cpp:33: void script::ParserAssert(const script::Token&, bool, const util::String&)
+12:01:55: -- Warning: Caught exception: line 11 'n': Missing {, c:/emilk/phun/trunk/Source/script/Parser.cpp:200: script::CodeBlockPtr script::Parser::Parse(const script::TokenList&, script::ReflectedPtr)
+12:01:55: Parsing C:/Users/ArsenLupen/Desktop/Vault/STORAGE/Apps/Phun Lite Edition/config.cfg...
+12:01:55: -- Warning: Failed to find image "gui/minimize"
+12:01:55: -- Warning: Failed to find image "backward"
+12:01:55: -- Warning: Failed to find image "forward"
+12:01:55: -- Warning: Failed to find image "play"
+12:01:55: -- Warning: Failed to find image "zoom"
+12:01:55: -- Warning: Failed to find image "navigator"
+12:01:55: -- Warning: Failed to find image "gravity"
+12:01:55: -- Warning: Failed to find image "air"
+12:01:55: -- Warning: Failed to find image "move"
+12:01:55: -- Warning: Failed to find image "drag"
+12:01:55: -- Warning: Failed to find image "rotate"
+12:01:55: -- Warning: Failed to find image "scale"
+12:01:55: -- Warning: Failed to find image "cut"
+12:01:55: -- Warning: Failed to find image "polygon"
+12:01:55: -- Warning: Failed to find image "brush"
+12:01:55: -- Warning: Failed to find image "box"
+12:01:55: -- Warning: Failed to find image "circle"
+12:01:55: -- Warning: Failed to find image "gears"
+12:01:55: -- Warning: Failed to find image "plane"
+12:01:55: -- Warning: Failed to find image "chain"
+12:01:55: -- Warning: Failed to find image "spring"
+12:01:55: -- Warning: Failed to find image "tool_fixjoint"
+12:01:55: -- Warning: Failed to find image "hinge"
+12:01:55: -- Warning: Failed to find image "tool_tracer"
+12:01:55: -- Warning: Failed to find image "zoom2scene"
+12:01:55: -- Warning: Failed to find image "center"
+12:01:55: -- Warning: Failed to find image "import_phunlet"
+12:01:55: -- Warning: Failed to find image "rightarrow"
+12:01:55: -- Warning: Failed to find image "color"
+12:01:55: Creating window...
+12:01:56: -- Warning: Failed to find image "textures/gears"
+12:01:56: -- Warning: Failed to find image "textures/plane"
+12:01:56: -- Warning: Failed to find image "textures/tool_tracer"
+12:01:56: -- Warning: Failed to find image "textures/gravity"
+12:01:56: -- Warning: Failed to find image "textures/spring"
+12:01:56: -- Warning: Failed to find image "textures/brush"
+12:01:56: -- Warning: Failed to find image "textures/move"
+12:01:56: -- Warning: Failed to find image "textures/drag"
+12:01:56: -- Warning: Failed to find image "textures/box"
+12:01:56: -- Warning: Failed to find image "textures/cut"
+12:01:56: -- Warning: Failed to find image "textures/rotate"
+12:01:56: -- Warning: Failed to find image "textures/hinge"
+12:01:56: -- Warning: Failed to find image "textures/scale"
+12:01:56: -- Warning: Failed to find image "textures/tool_fixjoint"
+12:01:56: -- Warning: Failed to find image "textures/chain"
+12:01:57: -- Warning: Failed to find image "pause"
+12:01:57: -- Warning: Failed to find image "textures/polygon"
+12:01:57: -- Warning: Failed to find image "textures/air"
+12:01:57: -- Warning: Failed to find image "textures/circle"
+12:01:57: 68 resources loaded
+12:01:57: Window created.
+12:01:57: Initializing thread-pool...
+12:01:57: Prefetching resources...
+12:01:58: Creaing GUI...
+12:01:58: Loading C:/Users/ArsenLupen/Desktop/Vault/STORAGE/Apps/Phun Lite Edition/scenes/_ONEXITSAVE.phz...
+12:02:12: -- Warning: Failed to find image "gui/checkbox-unknown"
+12:02:12: Loaded scene C:/Users/ArsenLupen/Desktop/Vault/STORAGE/Apps/Phun Lite Edition/scenes/_ONEXITSAVE.phz
+12:02:12: Running program...
+12:02:12: -- Warning: Failed to find image "logos/algodoo_phun_edition_stacked"
+12:02:12: -- Warning: Failed to find image "logos/algoryx"
+12:02:12: -- Warning: Failed to find image "blank"
+12:02:12: -- Warning: Failed to find image "hinge_motor"
+12:02:12: -- Warning: Failed to find image "hinge_inner"
+12:02:12: -- Warning: Failed to find image "hinge_background"
+12:02:12: -- Warning: Failed to find image "hinge_balls"
+12:02:12: -- Warning: Failed to find image "fixjoint"
+12:02:42: -- Warning: Failed to find image "hinge_motor_brake"
+12:02:42: -- Warning: Failed to find image "hinge_motor_ccw"
+12:02:42: -- Warning: Failed to find image "hinge_motor_cw"
+12:03:09: -- Warning: Failed to find image "save"
+12:03:09: -- Warning: Failed to find image "open"
+12:03:09: -- Warning: Failed to find image "clear"
+12:03:09: -- Warning: Failed to find image "new"
+12:03:09: -- Warning: Failed to find image "erasewater"
+12:03:09: -- Warning: Failed to find image "C:/Users/ArsenLupen/Desktop/Vault/STORAGE/Apps/Phun Lite Edition/data/language/English"
+12:03:09: -- Warning: English and English translation missing for MoreTranslations
+12:03:09: -- Warning: Failed to find image "info"
+12:03:09: -- Warning: Failed to find image "fullscreen"
+12:03:09: -- Warning: Failed to find image "url"
+12:03:09: -- Warning: Failed to find image "exit"
+12:03:12: Overwriting old "C:/Users/ArsenLupen/Desktop/Vault/STORAGE/Apps/Phun Lite Edition/scenes/_ONEXITSAVE.phz"
+
+
+-----------------------------
+  Phun v5.28
+  September 28 2024, 12:03:41
+-----------------------------
+12:03:41: Loading language English...
+12:03:41: -- Warning: Failed to find image "C:/Users/ArsenLupen/Desktop/Vault/STORAGE/Apps/Phun Lite Edition/data/textures/mouse"
+12:03:41: -- Warning: Failed to find cursor texture
+12:03:41: -- Warning: Failed to find image "logos/algodoo_phun_edition_16px"
+12:03:41: No tablet found (or Wintab32.dll missing)
+12:03:41: Parsing C:/Users/ArsenLupen/Desktop/Vault/STORAGE/Apps/Phun Lite Edition/autoexec.cfg...
+12:03:41: -- Warning: Exception thrown: line 11 'n': Missing { from c:/emilk/phun/trunk/Source/script/Parser.cpp:33: void script::ParserAssert(const script::Token&, bool, const util::String&)
+12:03:41: -- Warning: Caught exception: line 11 'n': Missing {, c:/emilk/phun/trunk/Source/script/Parser.cpp:200: script::CodeBlockPtr script::Parser::Parse(const script::TokenList&, script::ReflectedPtr)
+12:03:42: Parsing C:/Users/ArsenLupen/Desktop/Vault/STORAGE/Apps/Phun Lite Edition/config.cfg...
+12:03:42: -- Warning: Failed to find image "gui/minimize"
+12:03:42: -- Warning: Failed to find image "backward"
+12:03:42: -- Warning: Failed to find image "forward"
+12:03:42: -- Warning: Failed to find image "play"
+12:03:42: -- Warning: Failed to find image "zoom"
+12:03:42: -- Warning: Failed to find image "navigator"
+12:03:42: -- Warning: Failed to find image "gravity"
+12:03:42: -- Warning: Failed to find image "air"
+12:03:42: -- Warning: Failed to find image "move"
+12:03:42: -- Warning: Failed to find image "drag"
+12:03:42: -- Warning: Failed to find image "rotate"
+12:03:42: -- Warning: Failed to find image "scale"
+12:03:42: -- Warning: Failed to find image "cut"
+12:03:42: -- Warning: Failed to find image "polygon"
+12:03:42: -- Warning: Failed to find image "brush"
+12:03:42: -- Warning: Failed to find image "box"
+12:03:42: -- Warning: Failed to find image "circle"
+12:03:42: -- Warning: Failed to find image "gears"
+12:03:42: -- Warning: Failed to find image "plane"
+12:03:42: -- Warning: Failed to find image "chain"
+12:03:42: -- Warning: Failed to find image "spring"
+12:03:42: -- Warning: Failed to find image "tool_fixjoint"
+12:03:42: -- Warning: Failed to find image "hinge"
+12:03:42: -- Warning: Failed to find image "tool_tracer"
+12:03:42: -- Warning: Failed to find image "zoom2scene"
+12:03:42: -- Warning: Failed to find image "center"
+12:03:42: -- Warning: Failed to find image "import_phunlet"
+12:03:42: -- Warning: Failed to find image "rightarrow"
+12:03:42: -- Warning: Failed to find image "color"
+12:03:42: Creating window...
+12:03:42: -- Warning: Failed to find image "pause"
+12:03:42: -- Warning: Failed to find image "textures/gravity"
+12:03:42: -- Warning: Failed to find image "textures/rotate"
+12:03:43: -- Warning: Failed to find image "textures/brush"
+12:03:43: -- Warning: Failed to find image "textures/polygon"
+12:03:43: -- Warning: Failed to find image "textures/box"
+12:03:43: -- Warning: Failed to find image "textures/circle"
+12:03:43: -- Warning: Failed to find image "textures/air"
+12:03:43: -- Warning: Failed to find image "textures/cut"
+12:03:43: -- Warning: Failed to find image "textures/move"
+12:03:43: -- Warning: Failed to find image "textures/drag"
+12:03:43: -- Warning: Failed to find image "textures/scale"
+12:03:44: -- Warning: Failed to find image "textures/gears"
+12:03:44: -- Warning: Failed to find image "textures/plane"
+12:03:44: -- Warning: Failed to find image "textures/chain"
+12:03:44: -- Warning: Failed to find image "textures/spring"
+12:03:44: -- Warning: Failed to find image "textures/tool_fixjoint"
+12:03:44: -- Warning: Failed to find image "textures/hinge"
+12:03:44: -- Warning: Failed to find image "textures/tool_tracer"
+12:03:44: 68 resources loaded
+12:03:44: Window created.
+12:03:44: Initializing thread-pool...
+12:03:44: Prefetching resources...
+12:03:45: Creaing GUI...
+12:03:45: Loading C:/Users/ArsenLupen/Desktop/Vault/STORAGE/Apps/Phun Lite Edition/scenes/_ONEXITSAVE.phz...
+12:04:00: -- Warning: Failed to find image "gui/checkbox-unknown"
+12:04:00: Loaded scene C:/Users/ArsenLupen/Desktop/Vault/STORAGE/Apps/Phun Lite Edition/scenes/_ONEXITSAVE.phz
+12:04:00: Running program...
+12:04:00: -- Warning: Failed to find image "logos/algodoo_phun_edition_stacked"
+12:04:01: -- Warning: Failed to find image "logos/algoryx"
+12:04:01: -- Warning: Failed to find image "blank"
+12:04:01: -- Warning: Failed to find image "hinge_motor"
+12:04:01: -- Warning: Failed to find image "hinge_inner"
+12:04:01: -- Warning: Failed to find image "hinge_background"
+12:04:01: -- Warning: Failed to find image "hinge_balls"
+12:04:01: -- Warning: Failed to find image "fixjoint"
+12:04:16: -- Warning: Failed to find image "save"
+12:04:16: -- Warning: Failed to find image "open"
+12:04:16: -- Warning: Failed to find image "clear"
+12:04:16: -- Warning: Failed to find image "new"
+12:04:16: -- Warning: Failed to find image "erasewater"
+12:04:16: -- Warning: Failed to find image "C:/Users/ArsenLupen/Desktop/Vault/STORAGE/Apps/Phun Lite Edition/data/language/English"
+12:04:16: -- Warning: English and English translation missing for MoreTranslations
+12:04:16: -- Warning: Failed to find image "info"
+12:04:16: -- Warning: Failed to find image "fullscreen"
+12:04:16: -- Warning: Failed to find image "url"
+12:04:16: -- Warning: Failed to find image "exit"
+12:04:19: Overwriting old "C:/Users/ArsenLupen/Desktop/Vault/STORAGE/Apps/Phun Lite Edition/scenes/_ONEXITSAVE.phz"
+
+
+-----------------------------
+  Phun v5.28
+  September 28 2024, 12:05:24
+-----------------------------
+12:05:24: Loading language English...
+12:05:25: -- Warning: Failed to find image "C:/Users/ArsenLupen/Desktop/Vault/STORAGE/Apps/Phun Lite Edition/data/textures/mouse"
+12:05:25: -- Warning: Failed to find cursor texture
+12:05:25: -- Warning: Failed to find image "logos/algodoo_phun_edition_16px"
+12:05:25: No tablet found (or Wintab32.dll missing)
+12:05:25: Parsing C:/Users/ArsenLupen/Desktop/Vault/STORAGE/Apps/Phun Lite Edition/autoexec.cfg...
+12:05:25: -- Warning: Exception thrown: line 11 'n': Missing { from c:/emilk/phun/trunk/Source/script/Parser.cpp:33: void script::ParserAssert(const script::Token&, bool, const util::String&)
+12:05:25: -- Warning: Caught exception: line 11 'n': Missing {, c:/emilk/phun/trunk/Source/script/Parser.cpp:200: script::CodeBlockPtr script::Parser::Parse(const script::TokenList&, script::ReflectedPtr)
+12:05:25: Parsing C:/Users/ArsenLupen/Desktop/Vault/STORAGE/Apps/Phun Lite Edition/config.cfg...
+12:05:25: -- Warning: Failed to find image "gui/minimize"
+12:05:25: -- Warning: Failed to find image "move"
+12:05:25: -- Warning: Failed to find image "drag"
+12:05:25: -- Warning: Failed to find image "rotate"
+12:05:25: -- Warning: Failed to find image "scale"
+12:05:25: -- Warning: Failed to find image "cut"
+12:05:25: -- Warning: Failed to find image "polygon"
+12:05:25: -- Warning: Failed to find image "brush"
+12:05:25: -- Warning: Failed to find image "box"
+12:05:25: -- Warning: Failed to find image "circle"
+12:05:25: -- Warning: Failed to find image "gears"
+12:05:25: -- Warning: Failed to find image "plane"
+12:05:25: -- Warning: Failed to find image "chain"
+12:05:25: -- Warning: Failed to find image "spring"
+12:05:25: -- Warning: Failed to find image "tool_fixjoint"
+12:05:25: -- Warning: Failed to find image "hinge"
+12:05:25: -- Warning: Failed to find image "tool_tracer"
+12:05:25: -- Warning: Failed to find image "zoom2scene"
+12:05:25: -- Warning: Failed to find image "center"
+12:05:25: -- Warning: Failed to find image "import_phunlet"
+12:05:25: -- Warning: Failed to find image "rightarrow"
+12:05:25: -- Warning: Failed to find image "color"
+12:05:25: -- Warning: Failed to find image "backward"
+12:05:25: -- Warning: Failed to find image "forward"
+12:05:25: -- Warning: Failed to find image "play"
+12:05:25: -- Warning: Failed to find image "zoom"
+12:05:25: -- Warning: Failed to find image "navigator"
+12:05:25: -- Warning: Failed to find image "gravity"
+12:05:25: -- Warning: Failed to find image "air"
+12:05:25: Creating window...
+12:05:26: -- Warning: Failed to find image "textures/gravity"
+12:05:26: -- Warning: Failed to find image "textures/scale"
+12:05:26: -- Warning: Failed to find image "textures/chain"
+12:05:26: -- Warning: Failed to find image "textures/brush"
+12:05:26: -- Warning: Failed to find image "textures/tool_fixjoint"
+12:05:26: -- Warning: Failed to find image "textures/plane"
+12:05:26: -- Warning: Failed to find image "textures/hinge"
+12:05:27: -- Warning: Failed to find image "pause"
+12:05:27: -- Warning: Failed to find image "textures/air"
+12:05:27: -- Warning: Failed to find image "textures/drag"
+12:05:27: -- Warning: Failed to find image "textures/move"
+12:05:27: -- Warning: Failed to find image "textures/rotate"
+12:05:27: -- Warning: Failed to find image "textures/cut"
+12:05:27: -- Warning: Failed to find image "textures/box"
+12:05:27: -- Warning: Failed to find image "textures/polygon"
+12:05:27: -- Warning: Failed to find image "textures/circle"
+12:05:27: -- Warning: Failed to find image "textures/spring"
+12:05:27: -- Warning: Failed to find image "textures/gears"
+12:05:27: -- Warning: Failed to find image "textures/tool_tracer"
+12:05:27: 68 resources loaded
+12:05:27: Window created.
+12:05:27: Initializing thread-pool...
+12:05:27: Prefetching resources...
+12:05:28: Creaing GUI...
+12:05:28: Loading C:/Users/ArsenLupen/Desktop/Vault/STORAGE/Apps/Phun Lite Edition/scenes/_ONEXITSAVE.phz...
+12:05:43: -- Warning: Failed to find image "gui/checkbox-unknown"
+12:05:44: Loaded scene C:/Users/ArsenLupen/Desktop/Vault/STORAGE/Apps/Phun Lite Edition/scenes/_ONEXITSAVE.phz
+12:05:44: Running program...
+12:05:44: -- Warning: Failed to find image "logos/algodoo_phun_edition_stacked"
+12:05:44: -- Warning: Failed to find image "logos/algoryx"
+12:05:44: -- Warning: Failed to find image "pan"
+12:05:44: -- Warning: Failed to find image "blank"
+12:05:44: -- Warning: Failed to find image "hinge_motor"
+12:05:44: -- Warning: Failed to find image "hinge_inner"
+12:05:44: -- Warning: Failed to find image "hinge_background"
+12:05:44: -- Warning: Failed to find image "hinge_balls"
+12:05:44: -- Warning: Failed to find image "fixjoint"
+12:06:14: -- Warning: Failed to find image "hinge_motor_brake"
+12:06:14: -- Warning: Failed to find image "hinge_motor_ccw"
+12:06:14: -- Warning: Failed to find image "hinge_motor_cw"
+12:06:39: -- Warning: Failed to find image "save"
+12:06:39: -- Warning: Failed to find image "open"
+12:06:39: -- Warning: Failed to find image "clear"
+12:06:39: -- Warning: Failed to find image "new"
+12:06:39: -- Warning: Failed to find image "erasewater"
+12:06:39: -- Warning: Failed to find image "C:/Users/ArsenLupen/Desktop/Vault/STORAGE/Apps/Phun Lite Edition/data/language/English"
+12:06:39: -- Warning: English and English translation missing for MoreTranslations
+12:06:39: -- Warning: Failed to find image "info"
+12:06:39: -- Warning: Failed to find image "fullscreen"
+12:06:39: -- Warning: Failed to find image "url"
+12:06:39: -- Warning: Failed to find image "exit"
+12:06:41: Overwriting old "C:/Users/ArsenLupen/Desktop/Vault/STORAGE/Apps/Phun Lite Edition/scenes/_ONEXITSAVE.phz"
+
+
+-----------------------------
+  Phun v5.28
+  September 28 2024, 12:07:06
+-----------------------------
+12:07:06: Loading language English...
+12:07:06: -- Warning: Failed to find image "C:/Users/ArsenLupen/Desktop/Vault/STORAGE/Apps/Phun Lite Edition/data/textures/mouse"
+12:07:06: -- Warning: Failed to find cursor texture
+12:07:06: -- Warning: Failed to find image "logos/algodoo_phun_edition_16px"
+12:07:06: No tablet found (or Wintab32.dll missing)
+12:07:06: Parsing C:/Users/ArsenLupen/Desktop/Vault/STORAGE/Apps/Phun Lite Edition/autoexec.cfg...
+12:07:06: -- Warning: Exception thrown: line 11 'n': Missing { from c:/emilk/phun/trunk/Source/script/Parser.cpp:33: void script::ParserAssert(const script::Token&, bool, const util::String&)
+12:07:06: -- Warning: Caught exception: line 11 'n': Missing {, c:/emilk/phun/trunk/Source/script/Parser.cpp:200: script::CodeBlockPtr script::Parser::Parse(const script::TokenList&, script::ReflectedPtr)
+12:07:06: Parsing C:/Users/ArsenLupen/Desktop/Vault/STORAGE/Apps/Phun Lite Edition/config.cfg...
+12:07:06: -- Warning: Failed to find image "gui/minimize"
+12:07:06: -- Warning: Failed to find image "move"
+12:07:06: -- Warning: Failed to find image "drag"
+12:07:06: -- Warning: Failed to find image "rotate"
+12:07:06: -- Warning: Failed to find image "scale"
+12:07:06: -- Warning: Failed to find image "cut"
+12:07:06: -- Warning: Failed to find image "polygon"
+12:07:06: -- Warning: Failed to find image "brush"
+12:07:06: -- Warning: Failed to find image "box"
+12:07:06: -- Warning: Failed to find image "circle"
+12:07:06: -- Warning: Failed to find image "gears"
+12:07:06: -- Warning: Failed to find image "plane"
+12:07:06: -- Warning: Failed to find image "chain"
+12:07:07: -- Warning: Failed to find image "spring"
+12:07:07: -- Warning: Failed to find image "tool_fixjoint"
+12:07:07: -- Warning: Failed to find image "hinge"
+12:07:07: -- Warning: Failed to find image "tool_tracer"
+12:07:07: -- Warning: Failed to find image "zoom2scene"
+12:07:07: -- Warning: Failed to find image "center"
+12:07:07: -- Warning: Failed to find image "import_phunlet"
+12:07:07: -- Warning: Failed to find image "rightarrow"
+12:07:07: -- Warning: Failed to find image "color"
+12:07:07: -- Warning: Failed to find image "backward"
+12:07:07: -- Warning: Failed to find image "forward"
+12:07:07: -- Warning: Failed to find image "zoom"
+12:07:07: -- Warning: Failed to find image "navigator"
+12:07:07: -- Warning: Failed to find image "gravity"
+12:07:07: -- Warning: Failed to find image "air"
+12:07:07: Creating window...
+12:07:07: -- Warning: Failed to find image "textures/spring"
+12:07:07: -- Warning: Failed to find image "textures/chain"
+12:07:07: -- Warning: Failed to find image "textures/tool_fixjoint"
+12:07:07: -- Warning: Failed to find image "textures/hinge"
+12:07:07: -- Warning: Failed to find image "textures/tool_tracer"
+12:07:07: -- Warning: Failed to find image "textures/gravity"
+12:07:07: -- Warning: Failed to find image "textures/air"
+12:07:07: -- Warning: Failed to find image "textures/drag"
+12:07:07: -- Warning: Failed to find image "textures/scale"
+12:07:07: -- Warning: Failed to find image "textures/brush"
+12:07:07: -- Warning: Failed to find image "textures/box"
+12:07:08: -- Warning: Failed to find image "textures/rotate"
+12:07:08: -- Warning: Failed to find image "textures/move"
+12:07:08: -- Warning: Failed to find image "textures/cut"
+12:07:08: -- Warning: Failed to find image "textures/polygon"
+12:07:08: -- Warning: Failed to find image "textures/circle"
+12:07:08: -- Warning: Failed to find image "textures/gears"
+12:07:08: -- Warning: Failed to find image "textures/plane"
+12:07:08: 68 resources loaded
+12:07:08: Window created.
+12:07:08: Initializing thread-pool...
+12:07:08: Prefetching resources...
+12:07:10: Creaing GUI...
+12:07:10: Loading C:/Users/ArsenLupen/Desktop/Vault/STORAGE/Apps/Phun Lite Edition/scenes/_ONEXITSAVE.phz...
+12:07:25: -- Warning: Failed to find image "gui/checkbox-unknown"
+12:07:25: Loaded scene C:/Users/ArsenLupen/Desktop/Vault/STORAGE/Apps/Phun Lite Edition/scenes/_ONEXITSAVE.phz
+12:07:25: Running program...
+12:07:25: -- Warning: Failed to find image "logos/algodoo_phun_edition_stacked"
+12:07:25: -- Warning: Failed to find image "logos/algoryx"
+12:07:25: -- Warning: Failed to find image "blank"
+12:07:26: -- Warning: Failed to find image "hinge_motor"
+12:07:26: -- Warning: Failed to find image "hinge_inner"
+12:07:26: -- Warning: Failed to find image "hinge_background"
+12:07:26: -- Warning: Failed to find image "hinge_balls"
+12:07:26: -- Warning: Failed to find image "fixjoint"
+12:07:26: -- Warning: Failed to find image "pan"
+12:07:46: -- Warning: Failed to find image "erase"
+12:07:46: -- Warning: Failed to find image "clone"
+12:07:46: -- Warning: Failed to find image "mirror"
+12:07:46: -- Warning: Failed to find image "info"
+12:07:55: -- Warning: Failed to find image "hinge_motor_brake"
+12:07:55: -- Warning: Failed to find image "hinge_motor_ccw"
+12:07:55: -- Warning: Failed to find image "hinge_motor_cw"
+12:08:02: -- Warning: Failed to find image "ring"
+12:08:02: -- Warning: Failed to find image "hingemenu"
+12:08:24: -- Warning: Failed to find image "save"
+12:08:24: -- Warning: Failed to find image "open"
+12:08:24: -- Warning: Failed to find image "clear"
+12:08:24: -- Warning: Failed to find image "new"
+12:08:24: -- Warning: Failed to find image "erasewater"
+12:08:24: -- Warning: Failed to find image "C:/Users/ArsenLupen/Desktop/Vault/STORAGE/Apps/Phun Lite Edition/data/language/English"
+12:08:24: -- Warning: English and English translation missing for MoreTranslations
+12:08:24: -- Warning: Failed to find image "fullscreen"
+12:08:24: -- Warning: Failed to find image "url"
+12:08:24: -- Warning: Failed to find image "exit"
+12:08:27: Overwriting old "C:/Users/ArsenLupen/Desktop/Vault/STORAGE/Apps/Phun Lite Edition/scenes/_ONEXITSAVE.phz"
+
+
+-----------------------------
+  Phun v5.28
+  September 28 2024, 12:09:23
+-----------------------------
+12:09:23: Loading language English...
+12:09:23: -- Warning: Failed to find image "C:/Users/ArsenLupen/Desktop/Vault/STORAGE/Apps/Phun Lite Edition/data/textures/mouse"
+12:09:23: -- Warning: Failed to find cursor texture
+12:09:23: -- Warning: Failed to find image "logos/algodoo_phun_edition_16px"
+12:09:23: No tablet found (or Wintab32.dll missing)
+12:09:23: Parsing C:/Users/ArsenLupen/Desktop/Vault/STORAGE/Apps/Phun Lite Edition/autoexec.cfg...
+12:09:23: -- Warning: Exception thrown: line 11 'n': Missing { from c:/emilk/phun/trunk/Source/script/Parser.cpp:33: void script::ParserAssert(const script::Token&, bool, const util::String&)
+12:09:23: -- Warning: Caught exception: line 11 'n': Missing {, c:/emilk/phun/trunk/Source/script/Parser.cpp:200: script::CodeBlockPtr script::Parser::Parse(const script::TokenList&, script::ReflectedPtr)
+12:09:24: Parsing C:/Users/ArsenLupen/Desktop/Vault/STORAGE/Apps/Phun Lite Edition/config.cfg...
+12:09:24: -- Warning: Failed to find image "gui/minimize"
+12:09:24: -- Warning: Failed to find image "move"
+12:09:24: -- Warning: Failed to find image "drag"
+12:09:24: -- Warning: Failed to find image "rotate"
+12:09:24: -- Warning: Failed to find image "scale"
+12:09:24: -- Warning: Failed to find image "cut"
+12:09:24: -- Warning: Failed to find image "polygon"
+12:09:24: -- Warning: Failed to find image "brush"
+12:09:24: -- Warning: Failed to find image "box"
+12:09:24: -- Warning: Failed to find image "circle"
+12:09:24: -- Warning: Failed to find image "gears"
+12:09:24: -- Warning: Failed to find image "plane"
+12:09:24: -- Warning: Failed to find image "chain"
+12:09:24: -- Warning: Failed to find image "spring"
+12:09:24: -- Warning: Failed to find image "tool_fixjoint"
+12:09:24: -- Warning: Failed to find image "hinge"
+12:09:24: -- Warning: Failed to find image "tool_tracer"
+12:09:24: -- Warning: Failed to find image "backward"
+12:09:24: -- Warning: Failed to find image "forward"
+12:09:24: -- Warning: Failed to find image "zoom"
+12:09:24: -- Warning: Failed to find image "navigator"
+12:09:24: -- Warning: Failed to find image "gravity"
+12:09:24: -- Warning: Failed to find image "air"
+12:09:24: -- Warning: Failed to find image "zoom2scene"
+12:09:24: -- Warning: Failed to find image "center"
+12:09:24: -- Warning: Failed to find image "import_phunlet"
+12:09:24: -- Warning: Failed to find image "rightarrow"
+12:09:24: -- Warning: Failed to find image "color"
+12:09:24: Creating window...
+12:09:24: -- Warning: Failed to find image "textures/scale"
+12:09:24: -- Warning: Failed to find image "textures/drag"
+12:09:24: -- Warning: Failed to find image "textures/brush"
+12:09:24: -- Warning: Failed to find image "textures/box"
+12:09:24: -- Warning: Failed to find image "textures/spring"
+12:09:24: -- Warning: Failed to find image "textures/tool_tracer"
+12:09:24: -- Warning: Failed to find image "textures/gravity"
+12:09:25: -- Warning: Failed to find image "textures/move"
+12:09:25: -- Warning: Failed to find image "textures/rotate"
+12:09:25: -- Warning: Failed to find image "textures/cut"
+12:09:25: -- Warning: Failed to find image "textures/polygon"
+12:09:25: -- Warning: Failed to find image "textures/circle"
+12:09:25: -- Warning: Failed to find image "textures/chain"
+12:09:25: -- Warning: Failed to find image "textures/gears"
+12:09:25: -- Warning: Failed to find image "textures/tool_fixjoint"
+12:09:25: -- Warning: Failed to find image "textures/plane"
+12:09:25: -- Warning: Failed to find image "textures/hinge"
+12:09:25: -- Warning: Failed to find image "textures/air"
+12:09:25: 68 resources loaded
+12:09:25: Window created.
+12:09:25: Initializing thread-pool...
+12:09:25: Prefetching resources...
+12:09:26: Creaing GUI...
+12:09:26: Loading C:/Users/ArsenLupen/Desktop/Vault/STORAGE/Apps/Phun Lite Edition/scenes/_ONEXITSAVE.phz...
+12:09:40: -- Warning: Failed to find image "gui/checkbox-unknown"
+12:09:40: Loaded scene C:/Users/ArsenLupen/Desktop/Vault/STORAGE/Apps/Phun Lite Edition/scenes/_ONEXITSAVE.phz
+12:09:40: Running program...
+12:09:40: -- Warning: Failed to find image "logos/algodoo_phun_edition_stacked"
+12:09:40: -- Warning: Failed to find image "logos/algoryx"
+12:09:40: -- Warning: Failed to find image "blank"
+12:09:41: -- Warning: Failed to find image "fixjoint"
+12:09:49: -- Warning: Failed to find image "pan"
+12:09:49: -- Warning: Failed to find image "hinge_inner"
+12:09:49: -- Warning: Failed to find image "hinge_background"
+12:09:49: -- Warning: Failed to find image "hinge_balls"
+12:09:49: -- Warning: Failed to find image "hinge_motor"
+12:10:04: -- Warning: Failed to find image "save"
+12:10:04: -- Warning: Failed to find image "open"
+12:10:04: -- Warning: Failed to find image "clear"
+12:10:04: -- Warning: Failed to find image "new"
+12:10:04: -- Warning: Failed to find image "erasewater"
+12:10:04: -- Warning: Failed to find image "C:/Users/ArsenLupen/Desktop/Vault/STORAGE/Apps/Phun Lite Edition/data/language/English"
+12:10:04: -- Warning: English and English translation missing for MoreTranslations
+12:10:04: -- Warning: Failed to find image "info"
+12:10:04: -- Warning: Failed to find image "fullscreen"
+12:10:04: -- Warning: Failed to find image "url"
+12:10:04: -- Warning: Failed to find image "exit"
+12:10:10: -- Warning: Failed to find image "hinge_motor_brake"
+12:10:10: -- Warning: Failed to find image "hinge_motor_ccw"
+12:10:10: -- Warning: Failed to find image "hinge_motor_cw"
+12:15:08: -- Warning: Failed to find image "erase"
+12:15:08: -- Warning: Failed to find image "clone"
+12:15:08: -- Warning: Failed to find image "mirror"
+12:16:44: -- Warning: Failed to find image "ring"
+12:16:47: -- Warning: Failed to find image "hingemenu"
+12:16:48: -- Warning: English and English translation missing for For
+12:16:48: -- Warning: Failed to find image "gui/showgroup"
+12:17:10: -- Warning: English and English translation missing for MoreTranslations
+12:17:16: -- Warning: English and English translation missing for MoreTranslations
+12:17:18: Overwriting old "C:/Users/ArsenLupen/Desktop/Vault/STORAGE/Apps/Phun Lite Edition/scenes/_ONEXITSAVE.phz"
